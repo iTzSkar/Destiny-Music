@@ -13,14 +13,14 @@
 // If you don't know how to get a user token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token=MzczMzk5NDQ0OTM2MTk2MDk3.DOj3hQ.OB0PRu7n_2lgY0Nk76fpRztPeCg
+token=NDk2Njk2NzY1ODI3OTA3NTg5.DpUb-w.QmX9qMQ9f5ixetvXQY2z9q5rZNw
 
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner= 344244644261003264
+owner=465649311871533066
 
 // This sets the prefix for the bot
 // The prefix is used to control the commands
@@ -28,12 +28,12 @@ owner= 344244644261003264
 // If you do not set this, the prefix will be a mention of the bot (@Botname play)
 // If you make this blank, the bot will not use a prefix
 
-prefix=~
+prefix=1
 
 
 // If you set this, it modifies the default game of the bot
 //
-game=ضيفوني سناب mhq_r
+game=Type 1play
 
 
 // If you set these, it will change the success, warning, and error emojis
